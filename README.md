@@ -17,6 +17,7 @@
      - React frontend to display characters
      - Containerized db (Postgres & Redis), backend, frontend to run on a single server
      - Redis for caching frequently fetched data from Postgres
+     - Deployed via reverse proxying on NGINX on DigitalOcean Droplet
   
   
 #### 🏫 School Projects
