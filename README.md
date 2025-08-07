@@ -26,7 +26,7 @@
 
 #### 🌱 I’m currently learning
 1. Kubernetes, Helm
-2. Linux, Bash
+2. Linux, [Bash](https://github.com/mahopon/bashscripts)
 3. CI/CD with Github Actions
 4. Langchain, Prompt Engineering, RAG, Agents
 
