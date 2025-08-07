@@ -23,20 +23,12 @@
 1. [Park-it!](https://github.com/ZongZheJiang/SC2006)
 2. [Hospital Management System](https://github.com/bryantan285/SC2002-Group-1)
 3. [Forecasting the Future: Predictive Modeling for Diabetes](https://github.com/mahopon/sc1015-miniprj)
-<!--
-**mahopon/mahopon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### 🌱 I’m currently learning
 1. Kubernetes, Helm
 2. Linux, Bash
-3. Langchain, Prompt Engineering, RAG, Agents
+3. CI/CD with Github Actions
+4. Langchain, Prompt Engineering, RAG, Agents
 
 #### 🖥️ Homelab
 1. 2x Mini PCs - GMKTec G3+, Oumax Max N - N150 4c4t, 16gb ram
