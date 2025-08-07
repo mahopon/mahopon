@@ -38,4 +38,9 @@ Here are some ideas to get you started:
 2. Linux, Bash
 3. Langchain, Prompt Engineering, RAG, Agents
 
+#### 🖥️ Homelab
+1. 2x Mini PCs - GMKTec G3+, Oumax Max N - N150 4c4t, 16gb ram
+2. Desktop - 13700k 16c24t, RTX 3080 10gb, 64gb
+3. Switch - TL-SG108E 8 port
+
 📫 How to reach me: [Email](mailto:t.chongyao01@gmail.com)
