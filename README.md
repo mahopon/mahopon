@@ -8,7 +8,8 @@
 #### 🔭 I’m working on
 1. [Notification Service](https://github.com/mahopon/notification-service) - **Go** - **In-progress**
      - A service used across my projects deployed in my homelab
-     - Currently supports SMTP via [go-mail](https://github.com/wneessen/go-mail), Telegram/Discord bot to be added!
+     - Currently supports SMTP via [go-mail](https://github.com/wneessen/go-mail), Telegram Bot via [Telegram Bot API](https://github.com/go-telegram-bot-api/telegram-bot-api)
+     - Discord bot to be added!
 2.  [CS2 Smokes](https://github.com/mahopon/cs2-smokes) - **Java Spring Boot, Next.js, Python FastAPI** - **In-progress**
      - A full-stack app meant to help learning lineups quickly in the popular first-person shooter [Counter-Strike 2](https://www.counter-strike.net/cs2) for players who don't have time to practice due to commitments
 3. [Marvel Explorers](https://github.com/mahopon/marvelexplorers)
