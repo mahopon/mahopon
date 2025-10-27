@@ -38,4 +38,6 @@
 2. Desktop - 13700k 16c24t, RTX 3080 10gb, 64gb
 3. Switch - TL-SG108E 8 port
 
+X34 GS + 24" stacked setup abuser
+
 📫 How to reach me: [Email](mailto:t.chongyao01@gmail.com)
