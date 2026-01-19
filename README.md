@@ -35,7 +35,7 @@
 
 #### 🖥️ Homelab
 1. 2x Mini PCs - GMKTec G3+, Oumax Max N - N150 4c4t, 16gb ram
-2. Desktop - R9 9950X3D, 5070TI, 64gb ram
+2. Desktop - R9 9950X3D, 5070TI, 64gb ram, SFF in Lian LI A4-H2O!
 3. Switch - TL-SG108E 8 port
 
 📫 How to reach me: [Email](mailto:t.chongyao01@gmail.com)
