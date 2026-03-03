@@ -11,6 +11,8 @@
      - Learning:
        - to work with agentic coding (using cline-cli for the free models rn, or with Qwen3-Coder-30B-A3B Q4 on local llama.cpp
        - learn more about tackling backend issues at scale
+2. [Agent](https://github.com/mahopon/Agent) - **Go**
+     - Learning to work with LLMs for agentic usage without frameworks
   
   
 #### 🏫 School Projects
