@@ -13,6 +13,7 @@
        - learn more about tackling backend issues at scale
 2. [Agent](https://github.com/mahopon/Agent) - **Go**
      - Learning to work with LLMs for agentic usage without frameworks
+     - Using OpenRouter / local Qwen 3.5 with llama.cpp
   
   
 #### 🏫 School Projects
