@@ -37,7 +37,6 @@
 #### 🌱 I’m currently learning
 1. Kubernetes, Helm
 2. Linux, [Bash](https://github.com/mahopon/bashscripts), running CachyOS & Ubuntu server
-3. CI/CD with Github Actions / Gitlab
 
 #### 🖥️ Homelab
 1. 2x Mini PCs - GMKTec G3+, Oumax Max N - N150 4c4t, 16gb ram
