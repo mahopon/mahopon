@@ -17,9 +17,10 @@
   
   
 #### 🏫 School Projects
-1. [Park-it!](https://github.com/ZongZheJiang/SC2006)
-2. [Hospital Management System](https://github.com/bryantan285/SC2002-Group-1)
-3. [Forecasting the Future: Predictive Modeling for Diabetes](https://github.com/mahopon/sc1015-miniprj)
+1. [Park-it!](https://github.com/ZongZheJiang/SC2006) - Python, Flask
+2. [Hospital Management System](https://github.com/bryantan285/SC2002-Group-1) - Java
+3. [Forecasting the Future: Predictive Modeling for Diabetes](https://github.com/mahopon/sc1015-miniprj) - Python, scikit-learn
+4. [DEX](https://github.com/mahopon/SC4053-DEX/) - Go, Echo, Typescript, React, Solidity, Hardhat
 
 ### 🏠 Projects
 1. [Notification Service](https://github.com/mahopon/notification-service) - **Go**
